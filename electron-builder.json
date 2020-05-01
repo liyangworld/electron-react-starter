@@ -13,6 +13,10 @@
   "extraMetadata": {
     "main": "./build/main.js"
   },
+  "publish": {
+    "provider": "generic",
+    "url": "http://192.168.0.124:5000/release"
+  },
   "mac": {
     "category": "public.app-category.productivity",
     "artifactName": "${productName}-${version}-${arch}.${ext}"

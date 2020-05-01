@@ -1,0 +1,3 @@
+provider: generic
+url: "http://192.168.0.124:5000/release"
+updaterCacheDirName: electron-demo-updater
